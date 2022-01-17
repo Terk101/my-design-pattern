@@ -10,3 +10,5 @@ Strategy Design Pattern
 
 -Compatible with Open/Closed Principle
 -Classes should be open for extension but closed for modification
+
+Composition rather than inheritance.
