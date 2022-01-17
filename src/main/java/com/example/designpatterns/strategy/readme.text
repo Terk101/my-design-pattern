@@ -1,0 +1,12 @@
+The Strategy Pattern defines a family of algorithms,
+encapsulates each one, and makes them interchangeable.
+Strategy lets the algorithm vary independently from
+clients that use it.
+-----------------------------------------------
+Strategy Design Pattern
+-Behavioral software design pattern
+-Family of algorithms
+-Enables selecting an algorithm at runtime
+
+-Compatible with Open/Closed Principle
+-Classes should be open for extension but closed for modification
