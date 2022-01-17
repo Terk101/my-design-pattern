@@ -12,3 +12,15 @@ Strategy Design Pattern
 -Classes should be open for extension but closed for modification
 
 Composition rather than inheritance.
+
+----------------------------------------------------------------
+OO Basics
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+-------------------------------------------------------------
+OO Principles
+Encapsulate what varies.
+Favor composition over inheritence.
+Program to interfaces not implementations.
