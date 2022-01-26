@@ -1,2 +1,5 @@
-package com.example.designpatterns.observer;public interface DisplayElement {
+package com.example.designpatterns.observer;
+
+public interface DisplayElement {
+    void display();
 }
