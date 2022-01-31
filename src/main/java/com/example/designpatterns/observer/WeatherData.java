@@ -3,7 +3,7 @@ package com.example.designpatterns.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class WeatherData implements Subject {
+public final class WeatherData implements Subject {
     private List<Observer> observers;
     private float temperature;
     private float humidity;
